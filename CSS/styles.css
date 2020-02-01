@@ -91,15 +91,15 @@ h3 {
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 20%;
+  bottom: 20%;
   width: 15%;
 }
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 250px;
+  right: 20%;
+  top: 20%;
   width: 15%;
 }
 
